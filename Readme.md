@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [HatchAppointmenStatus.cs](./CS/HatchAppointmenStatus.cs) (VB: [HatchAppointmenStatus.vb](./VB/HatchAppointmenStatus.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to customize iCalendar format import and export operations behavior
 
 
